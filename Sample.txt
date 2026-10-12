@@ -1,3 +1,7 @@
 This is Sample Message from Main banch
 this is the change from developer
 this is the change from tester
+int num1=100
+int num2=340
+int num3=num1+num2
+print(num3)
